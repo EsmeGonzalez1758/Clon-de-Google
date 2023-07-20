@@ -12,7 +12,7 @@ The project was created mainly in Tecnolochicas in order to learn how to move th
 * footer: Renders a footer for the nearest section content or section root element
 
 # ⌛ Tools ⌛
-*Visual Studio Code
-*Google
+* Visual Studio Code
+* Google
 
 # 🔎 visualization of google clone 🔎
