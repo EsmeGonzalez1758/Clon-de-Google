@@ -1,5 +1,6 @@
 # 💗 Google clone 💗 
 *Created with html and CSS*
+
 The goal of making a Google clone in HTML (HyperText Markup Language) is mainly educational and practical. By creating a clone of a famous website like Google, developers can learn and improve their skills in web development and user interface design.
 
 The project was created mainly in Tecnolochicas in order to learn how to move these icons and be able to use various tools.
