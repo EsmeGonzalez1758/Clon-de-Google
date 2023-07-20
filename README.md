@@ -16,4 +16,4 @@ The project was created mainly in Tecnolochicas in order to learn how to move th
 * Google
 
 # 🔎 visualization of google clone 🔎
-![clone-google](https://user-images.githubusercontent.com/96328329/234746858-b0f34e1f-43d2-4311-a75b-70418614212a.png)
+![clone-google](https://github.com/EsmeGonzalez1758/Clon-de-Google/blob/ca2a8d77e9c65c949b0df6f9453611c2af33c75a/images/VisualizacionGoogle.PNG)
