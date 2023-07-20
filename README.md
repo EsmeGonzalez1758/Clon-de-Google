@@ -16,4 +16,4 @@ The project was created mainly in Tecnolochicas in order to learn how to move th
 * Google
 
 # 🔎 visualization of google clone 🔎
-👉🏾 [Clonación de Google](http://mirandajaramillo.github.io/Google-Clone/)
+![clone-google](https://user-images.githubusercontent.com/96328329/234746858-b0f34e1f-43d2-4311-a75b-70418614212a.png)
