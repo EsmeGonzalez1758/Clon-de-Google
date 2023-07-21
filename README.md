@@ -1,7 +1,7 @@
 # 💗 Google clone 💗 
 *Created with html and CSS*
 
-🔗 [Proyecto completo](https://googlefine.netlify.app)
+🔗 [Proyecto completo](https://googlefine.netlify.app/)
 
 The goal of making a Google clone in HTML (HyperText Markup Language) is mainly educational and practical. By creating a clone of a famous website like Google, developers can learn and improve their skills in web development and user interface design.
 
